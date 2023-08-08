@@ -1,0 +1,15 @@
+C:\Users\de4st\OneDrive\Рабочий стол\ДЗ\Задание002\bin\Debug\net6.0\Задание002.exe
+C:\Users\de4st\OneDrive\Рабочий стол\ДЗ\Задание002\bin\Debug\net6.0\Задание002.deps.json
+C:\Users\de4st\OneDrive\Рабочий стол\ДЗ\Задание002\bin\Debug\net6.0\Задание002.runtimeconfig.json
+C:\Users\de4st\OneDrive\Рабочий стол\ДЗ\Задание002\bin\Debug\net6.0\Задание002.dll
+C:\Users\de4st\OneDrive\Рабочий стол\ДЗ\Задание002\bin\Debug\net6.0\Задание002.pdb
+C:\Users\de4st\OneDrive\Рабочий стол\ДЗ\Задание002\obj\Debug\net6.0\Задание002.csproj.AssemblyReference.cache
+C:\Users\de4st\OneDrive\Рабочий стол\ДЗ\Задание002\obj\Debug\net6.0\Задание002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\de4st\OneDrive\Рабочий стол\ДЗ\Задание002\obj\Debug\net6.0\Задание002.AssemblyInfoInputs.cache
+C:\Users\de4st\OneDrive\Рабочий стол\ДЗ\Задание002\obj\Debug\net6.0\Задание002.AssemblyInfo.cs
+C:\Users\de4st\OneDrive\Рабочий стол\ДЗ\Задание002\obj\Debug\net6.0\Задание002.csproj.CoreCompileInputs.cache
+C:\Users\de4st\OneDrive\Рабочий стол\ДЗ\Задание002\obj\Debug\net6.0\Задание002.dll
+C:\Users\de4st\OneDrive\Рабочий стол\ДЗ\Задание002\obj\Debug\net6.0\refint\Задание002.dll
+C:\Users\de4st\OneDrive\Рабочий стол\ДЗ\Задание002\obj\Debug\net6.0\Задание002.pdb
+C:\Users\de4st\OneDrive\Рабочий стол\ДЗ\Задание002\obj\Debug\net6.0\Задание002.genruntimeconfig.cache
+C:\Users\de4st\OneDrive\Рабочий стол\ДЗ\Задание002\obj\Debug\net6.0\ref\Задание002.dll
